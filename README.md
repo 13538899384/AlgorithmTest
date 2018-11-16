@@ -34,11 +34,16 @@
 
 以上是投递的部分公司，还有一些就偷懒不列举了，拿到的offer并不多，但是离不开家人、朋友和好童鞋的关心和帮助了。需要的面经分享如下链接：
 
-**头条：https://www.nowcoder.com/discuss/143381
+头条：https://www.nowcoder.com/discuss/143381
+
 迅雷：https://www.nowcoder.com/discuss/132230
+
 珠海金山：https://www.nowcoder.com/discuss/105296
+
 58集团：https://www.nowcoder.com/discuss/124946
+
 CVET：https://www.nowcoder.com/discuss/110388
+
 蘑菇街：https://www.nowcoder.com/discuss/115195
 
 ### 大三的准备
@@ -55,9 +60,9 @@ R（result）：项目中取得成果
 
 ### 笔试准备
 基本知识点：队列、栈、字符串、迭代、递归、查找算法、8大排序算法、时间和空间复杂度计算、贪心算法、树、图论（很难）
-**剑指offer
+剑指offer
 LeetCode
-**注意：牛客网是个求职神器，剑指offer和LeetCode刷题非常重要，后续面多几家公司就会发现，有些时候面试官出的都是原题，我刷了几百道算法题才有点信心面试头条。
+注意：牛客网是个求职神器，剑指offer和LeetCode刷题非常重要，后续面多几家公司就会发现，有些时候面试官出的都是原题，我刷了几百道算法题才有点信心面试头条。
 
 ### 面试准备
 技术面：主要考察代码业务能力、基础专业知识以及知识面。首先被面试者需要对自己简历内容要非常熟悉，需要做到表达清晰，充分准备项目相关、实现相关技术以及解决的问题。
